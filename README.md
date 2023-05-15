@@ -1,6 +1,14 @@
 ## Hi there, I'm Melkamu 👋
-👯 I’m looking to collaborate on front end development Project<br>
-💬 Ask me about Web Development
+
+<h1>💫 About Me</h1>
+
+- 👯 I’m looking to collaborate on front end development Project
+
+- 💬 Ask me about Web Development
+
+- 📫 How to reach me malmawu@gmail.com
+
+- ⚡ Fun fact I am a Programmer
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=melkamu12&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melkamu12&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
