@@ -1,4 +1,7 @@
 ## Hi there, I'm Melkamu 👋
+👯 I’m looking to collaborate on front end development Project<br>
+💬 Ask me about Web Development
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=melkamu12&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melkamu12&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
