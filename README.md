@@ -6,7 +6,7 @@
 
 - 💬 Ask me about Web Development
 
-- 📫 How to reach me malmawu@gmail.com
+- 📫 How to reach me malmawu@gmail.com https://www.linkedin.com/in/melkamu-almawu/
 
 - ⚡ Fun fact I am a Programmer
 
