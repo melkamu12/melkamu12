@@ -6,7 +6,7 @@
 
 - 💬 Ask me about Web Development
 
-- 📫 How to reach me  <a target="_blank" href="mailto:malmawu@gmail.com"> <img [LinkedIn](https://www.linkedin.com/in/melkamu-almawu/) <a>+251-914-918-670</a>/<a>+251-928-067-335</a>
+- 📫 How to reach me  <a target="_blank" href="mailto:malmawu@gmail.com"> malmawu@gmail.com [LinkedIn](https://www.linkedin.com/in/melkamu-almawu/) <a>+251-914-918-670</a>/<a>+251-928-067-335</a>
 
 - ⚡ Fun fact I am a Programmer
 - ## 🔧 Technologies & Tools
