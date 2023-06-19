@@ -27,6 +27,6 @@
 
   <div align="center">
     <a href="https://github.com/melkamu12">
-      <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?usermelkamu12&theme=midnight-purple" />
+      <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=melkamu12&theme=midnight-purple" />
     </a>
   </div> 
