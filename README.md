@@ -6,7 +6,7 @@
 
 - 💬 Ask me about Web Development
 
-- 📫 How to reach me malmawu@gmail.com [LinkedIn](https://www.linkedin.com/in/melkamu-almawu/)
+- 📫 How to reach me malmawu@gmail.com [LinkedIn](https://www.linkedin.com/in/melkamu-almawu/) +251-914-918-670/+251-928-067-335
 
 - ⚡ Fun fact I am a Programmer
 - ## 🔧 Technologies & Tools
