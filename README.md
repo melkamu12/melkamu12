@@ -20,3 +20,13 @@
 <img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 ## &#x1f4c8; GitHub Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=melkamu12&show_icons=true&theme=radical"/>
+  <a href="https://github.com/melkamu12">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melkamu12&layout=compact&theme=midnight-purple" />
+  </a>
+
+
+  <div align="center">
+    <a href="https://github.com/melkamu12">
+      <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?usermelkamu12&theme=midnight-purple" />
+    </a>
+  </div> 
