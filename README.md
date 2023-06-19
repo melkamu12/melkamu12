@@ -6,7 +6,7 @@
 
 - 💬 Ask me about Web Development
 
-- 📫 How to reach me <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank" href="mailto:malmawu@gmail.com"><img [LinkedIn](https://www.linkedin.com/in/melkamu-almawu/) <a>+251-914-918-670</a>/<a>+251-928-067-335</a>
+- 📫 How to reach me <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank" href="mailto:malmawu@gmail.com"> <img [LinkedIn](https://www.linkedin.com/in/melkamu-almawu/) <a>+251-914-918-670</a>/<a>+251-928-067-335</a>
 
 - ⚡ Fun fact I am a Programmer
 - ## 🔧 Technologies & Tools
