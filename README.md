@@ -18,10 +18,10 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <img alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-## &#x1f4c8; GitHub Stats
+<!--## &#x1f4c8; GitHub Stats
   <a href="https://github.com/melkamu12">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=melkamu12&show_icons=true&theme=radical"/>
-  </a>
+  </a>-->
   <a href="https://github.com/melkamu12">
     <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melkamu12&layout=compact&theme=midnight-purple" />
   </a>
