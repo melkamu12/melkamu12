@@ -30,4 +30,7 @@
     <a href="https://github.com/melkamu12">
       <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=melkamu12&theme=midnight-purple" />
     </a>
+     <a href="https://github.com/melkamu12">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=melkamu12&show_icons=true&theme=radical"/>
+  </a>
   </div> 
